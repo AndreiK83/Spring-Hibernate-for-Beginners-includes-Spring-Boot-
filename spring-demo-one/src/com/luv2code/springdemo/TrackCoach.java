@@ -4,7 +4,8 @@ public class TrackCoach implements Coach {
 
 	@Override
 	public String getDailyWorkout() {
-		return "100 pushups";
+		
+		return "spend 1 hour to practice";
 	}
 
 }
